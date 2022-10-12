@@ -100,6 +100,7 @@ textarea {
    #navLogo{
     max-width: 110px;
     border-radius: 8px;
+    box-shadow: 2px 5px rgb(52, 49, 49);
   }
   .navbar{
     background-color: #44b23c;
@@ -146,6 +147,7 @@ textarea {
    justify-content: center;
    flex-wrap: wrap;
   }
+
   /*Form*/
   .contactform{
     width: 50%;
